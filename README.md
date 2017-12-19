@@ -1,2 +1,2 @@
 # test-repo
-This is a test rep created.
+This is a test repo created.
